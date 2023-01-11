@@ -1,0 +1,22 @@
+.app {
+  padding-top: 50px;
+  width: 100%;
+  height: 100vh;
+  border: 1px solid black;
+}
+.app1 {
+  border: 1px solid black;
+  width: 300px;
+  height: 200px;
+
+  padding: 40px;
+  margin-left: 550px;
+  background-color: rgba(67, 105, 229, 0.986);
+}
+button {
+  color: pink;
+  background-color: blue;
+}
+button:hover {
+  background-color: rgb(214, 136, 19);
+}

@@ -1,0 +1,28 @@
+img {
+  width: 600px;
+}
+h1 {
+  text-align: center;
+}
+.box {
+  box-shadow: -12px -10px 36px -7px rgba(21, 6, 6, 0.42);
+  -webkit-box-shadow: -12px -10px 36px -7px rgba(0, 0, 0, 0.42);
+  -moz-box-shadow: -12px -10px 36px -7px rgba(0, 0, 0, 0.42);
+  margin-left: 28%;
+  width: 40%;
+  padding: 20px;
+  margin-top: 40px;
+}
+.box:hover {
+  background-color: beige;
+  width: 41%;
+}
+.t1 {
+  display: flex;
+  justify-content: space-between;
+}
+button {
+  margin-left: 40%;
+  color: red;
+  border: 1px solid rgb(219, 22, 22);
+}

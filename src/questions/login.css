@@ -1,0 +1,33 @@
+.log {
+  margin: 50px 0px 0px 600px;
+  padding: 10px 0px 0px 0px;
+  border: 1px solid red;
+  width: 300px;
+  background-color: yellow;
+  box-sizing: 1rem;
+}
+.user {
+  padding: 15px;
+}
+.pw {
+  padding: 15px;
+}
+input {
+  margin-left: 50px;
+}
+.b {
+  padding: 5px;
+  margin-left: 110px;
+}
+h1 {
+  margin-left: 95px;
+}
+p {
+  margin-left: 100px;
+}
+body {
+  background-color: blue;
+}
+box {
+  padding-top: 100px;
+}
